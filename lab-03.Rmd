@@ -81,7 +81,7 @@ Wide
 
 How many observations are there in the data set?
 
-55
+5
 
 
 ## Exercise 2
