@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "User1, User2, User3 and User4 - Team Name"
+author: "User1, Tom Cummings, User3 and User4 - Team Name"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -71,7 +71,7 @@ staff <- read_csv("data/instructional-staff.csv")
 ## Exercise 1
 
 What is the difference between *wide format* data and *long format* data?
-
+pivot wide widens the data by increasing the number of columns and decreasing the number of rows. In contrast pivot long makes the data longer by decreasing the number of columns and increasing the number of rows
 
 Is the format `staff` data *wide* or *long*?
 
